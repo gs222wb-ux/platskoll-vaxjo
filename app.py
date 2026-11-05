@@ -19,7 +19,7 @@ st.divider()
 
 # --- 2. DATABASEN ---
 campus = {
-    "M-huset (Teknik & Maskin)": {
+    "M-huset": {
         "Sal Södra (M1050)": 60, "Sal Norra (M1051)": 60, "Grupprum M1042": 15,
         "Grupprum M1083": 15, "Grupprum M1088": 15, "Datasal M1054": 30, "Studieyta Entréplanet": 40
     },
